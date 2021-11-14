@@ -28,11 +28,11 @@ public class BaseTest {
     }
 
 
-   /* @AfterAll
+    @AfterAll
     public void shutDown(){
     driver.quit();
     System.out.println("Test finished.");
     }
-*/
+
 
 }
